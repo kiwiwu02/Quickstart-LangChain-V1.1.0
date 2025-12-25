@@ -1,7 +1,14 @@
 # LangChain Essentials（Python）学习笔记
 
-此代码仓库收录了我根据 LangChain Academy《LangChain Essentials》课程整理的练习与笔记。每个 Notebook 都围绕构建 LangChain LLM 应用的关键主题展开，从基础 Agent 配置、工具调用到中间件与人类介入流程。
+此代码仓库收录了我根据 LangChain Academy《LangChain Essentials》课程整理的练习与笔记，已全面同步至 LangChain v1.1.0 版本。所有 Notebook、脚本与附加资料均可直接运行，适合作为“保姆级”上手手册，每个 Notebook 都围绕构建 LangChain LLM 应用的关键主题展开，从基础 Agent 配置、工具调用到中间件与人类介入流程。
 ![alt text](./assets/image.png)
+
+## 资料特点
+
+- 覆盖 LangChain v1.1.0 最新 API，结合课程节奏同步更新。
+- Notebook、工具脚本与课件齐全，可复制即用，降低环境搭建成本。
+- 针对实战需求补充注释与实验记录，帮助快速理解关键概念。
+
 ## 文件概览
 
 - `01.Fast_Agent.ipynb` – 从零搭建 SQL Agent：创建数据库上下文、定义工具并观察 ReAct 流程。
